@@ -16,6 +16,8 @@ div.orange {
 }
 
 div {
+    width: 8cm;
+    height: fit-content;
     padding: 10mm;
     border: solid 2mm lightpink;
     margin: 2mm;
